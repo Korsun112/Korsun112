@@ -18,5 +18,5 @@
 <p>:man_technologist: A beginner programmer who wants to become a Full-stack developer in the future</p>
 
 <div id="text">
-    <p>:</p>
+    - :seedling: I'm studying at the HTML Academy to become a front-end programmer
 </div>
