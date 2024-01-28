@@ -12,5 +12,5 @@
 </div>
 
 ---
-
+align="center"
 # :blossom: Peace for everyone
