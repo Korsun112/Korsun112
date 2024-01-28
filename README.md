@@ -13,6 +13,4 @@
 
 ---
 
-<div id="main">
-    :blossom: Hey there :
-</div>
+# :blossom: Peace for everyone
