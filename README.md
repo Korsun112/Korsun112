@@ -7,5 +7,6 @@
         <a href="https://discord.gg/jqFuwv96V6">
             <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=Discord&logoColor=white" alt="Link discrod">
         </a>
+        <img src="https://komarev.com/ghpvc/?username=Korsun112&style=flat-square&color=green" alt=""/>
     </div>
 </div>
