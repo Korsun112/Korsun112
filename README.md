@@ -12,5 +12,6 @@
 </div>
 
 ---
-align="center"
+<span align="center">
 # :blossom: Peace for everyone
+</span>
