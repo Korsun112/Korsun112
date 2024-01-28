@@ -14,5 +14,5 @@
 ---
 
 <div id="main">
-    ### :blossom: Hey there :
+    :blossom: Hey there :
 </div>
