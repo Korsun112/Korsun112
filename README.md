@@ -14,3 +14,9 @@
 ---
 
 <h1 align="center"> :blossom: Peace for everyone </h1>
+
+<p>:man_technologist: A beginner programmer who wants to become a Full-stack developer in the future</p>
+
+<div id="text">
+    <p>:</p>
+</div>
