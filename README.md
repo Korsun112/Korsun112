@@ -18,8 +18,13 @@
 <p>:man_technologist: A beginner programmer who wants to become a Full-stack developer in the future</p>
 
 <div id="text">
+
     - :seedling: I'm studying at the HTML Academy to become a front-end programmer
+
     - :deciduous_tree: In my free time I study all sorts of aesthetic things, techniques, and also play computer and chess
+
     - :four_leaf_clover: I would really like to join a practical and experienced development team, and also find friends with my interests in this field
+
     - :leaves: And most importantly, this is my favorite hobby, this is what I want to live
+    
 </div>
